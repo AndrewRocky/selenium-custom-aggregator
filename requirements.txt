@@ -1,0 +1,26 @@
+# packages in environment at C:\1main\programs\Anaconda3\envs\selenium-web:
+#
+# Name                    Version                   Build  Channel
+brotlipy                  0.7.0           py37h2bbff1b_1003  
+ca-certificates           2021.1.19            haa95532_0  
+certifi                   2020.12.5        py37haa95532_0  
+cffi                      1.14.5           py37hcd4344a_0  
+cryptography              3.3.1            py37hcd4344a_1  
+idna                      3.1                pyhd3eb1b0_0  
+openssl                   1.1.1i               h2bbff1b_0  
+pip                       20.3.3           py37haa95532_0  
+pycparser                 2.20                       py_2  
+pyopenssl                 20.0.1             pyhd3eb1b0_1  
+pysocks                   1.7.1                    py37_1  
+python                    3.7.9                h60c2a47_0  
+selenium                  3.141.0         py37hfa6e2cd_1001  
+setuptools                52.0.0           py37haa95532_0  
+six                       1.15.0           py37haa95532_0  
+sqlite                    3.33.0               h2a8f88b_0  
+urllib3                   1.26.3             pyhd3eb1b0_0  
+vc                        14.2                 h21ff451_1  
+vs2015_runtime            14.27.29016          h5e58377_2  
+wheel                     0.36.2             pyhd3eb1b0_0  
+win_inet_pton             1.1.0            py37haa95532_0  
+wincertstore              0.2                      py37_0  
+zlib                      1.2.11               h62dcd97_4  
